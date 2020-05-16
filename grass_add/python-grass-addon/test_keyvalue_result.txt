@@ -1,0 +1,12 @@
+time=0.280s
+status=failed
+total=2
+failures=0
+errors=2
+successes=0
+skipped=0
+expected_failures=0
+unexpected_successes=0
+tested_modules=
+supplementary_files=
+test_type=not-specified

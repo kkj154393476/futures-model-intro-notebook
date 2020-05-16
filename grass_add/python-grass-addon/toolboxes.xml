@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolboxes>
+  <toolbox name="Viewsheds">
+    <label>Viewsheds</label>
+    <items>
+      <module-item name="r.viewshed.points">
+        <label>Compute special viewsheds</label>
+      </module-item>
+      <module-item name="r.viewshed">
+        <label>Compute standard viewshed</label>
+      </module-item>
+      <module-item name="g.region">
+        <label>Set region</label>
+      </module-item>
+      <module-item name="v.random">
+        <label>Generate random points</label>
+      </module-item>
+      <separator/>
+    </items>
+  </toolbox>
+</toolboxes>
